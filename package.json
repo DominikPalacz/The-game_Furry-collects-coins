@@ -1,0 +1,24 @@
+{
+  "name": "furry",
+  "version": "1.0.0",
+  "description": "js game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DominikPalacz/The-game_Furry-collects-coins.git"
+  },
+  "author": "Dominik Palacz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DominikPalacz/The-game_Furry-collects-coins/issues"
+  },
+  "homepage": "https://github.com/DominikPalacz/The-game_Furry-collects-coins#readme",
+  "devDependencies": {
+    "webpack": "^4.10.2",
+    "webpack-cli": "^2.1.4"
+  },
+  "dependencies": {}
+}
